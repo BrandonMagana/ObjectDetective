@@ -8,7 +8,7 @@ ObjectDetectron is a Python repository for DETR-based object detection and visua
 
 ```bash
 git clone git@github.com:BrandonMagana/ObjectDetective.git 
-cd ObjectDetectron
+cd ObjectDetective
 ```
 ### 2. Create and Activate Virtual Environment
 
